@@ -1,0 +1,13 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'Nunito-Bold';
+    src: url('..//Fonts/Nunito/');
+    src: url('..//Fonts/Nunito/') format('embedded-opentype'),
+        url('..//Fonts/Nunito/Nunito-Bold.woff2') format('woff2'),
+        url('..//Fonts/Nunito/Nunito-Bold.woff') format('woff'),
+        url('..//Fonts/Nunito/Nunito-Bold.svg#Nunito-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
